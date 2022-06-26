@@ -1,0 +1,70 @@
+* {
+    font-family: calibri;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+}
+
+.header {
+    width: 350px;
+    height: 350px;
+    background: #181e24;
+    padding: 15px;
+    border-radius: 9px;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.discord {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main {
+    width: 350px;
+    height: 300px;
+    background: #24303c;
+    padding: 5px;
+    border-radius: 9px;
+    margin: auto;
+    margin-top: -300px;
+    text-align: center;
+}
+
+#jobs {
+    float: left;
+    width: 30%;
+    margin: 5px;
+    margin-top: 20px;
+    background: #181e24;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.job-title {
+    color: rgba(255, 255, 255, 0.700);
+    font-size: 12px;
+}
+
+.players {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.players-container {
+    padding: 20px;
+    border-bottom: 3px solid rgba(255, 255, 255, 0.700);
+}
+
+.user-info {
+    margin-top: 155px;
+}
+
+.username {
+    padding-right: 15px;
+    padding-left: 5px;
+    font-weight: bold;
+    border-right: 3px solid rgba(255, 255, 255, 0.700);
+}
